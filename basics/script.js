@@ -1,13 +1,14 @@
 let ipt = document.querySelector(".ip");
 let btn = document.querySelector(".press");
 // let head = document.querySelector("h1");
-// let body = document.querySelector("body");
+let bdy = document.querySelector("body");
 
 btn.addEventListener("click", function () {
 
  let head = document.createElement("h1");
- head.innerText = ipt.value;
-//  body.appendChild(head);
+ head.textContent = ipt.value;
+ ipt.before(head);
+ body.appendChild(head);
   ipt.value = "";
 });
 
@@ -22,7 +23,4 @@ Cbtn.addEventListener("click", function () {
 
   body.style.backgroundColor =  (`rgb(${red}, ${green}, ${blue})`);    // rgb(122, 102, 120);
   
-
-  
-
 });
