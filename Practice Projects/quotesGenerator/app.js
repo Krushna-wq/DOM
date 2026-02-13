@@ -34,6 +34,6 @@ const button = document.querySelector("button");
 const quote = document.querySelector("h1");
 
 button.addEventListener("click", function () {
-     let index = Math.floor(Math.random()*30);
+     let index = Math.floor(Math.random()*quotes.length);
      quote.textContent = quotes[index];
 });
