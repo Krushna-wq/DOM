@@ -11,5 +11,6 @@ btn.addEventListener("click", function () {
      
      console.dir(para);
      div.appendChild(para);
+     ipt.value = "";
     }
 });
