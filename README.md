@@ -7,6 +7,8 @@ Topics:
 - Text and style manipulation
 - Input handling
 - Creating elements
+- Logic building exercises
+- JavaScript concept amd fundamentals implementations
 
 This repo is focused on learning and practicing Js DOM concepts.
 
