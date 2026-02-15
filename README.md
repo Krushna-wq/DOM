@@ -16,6 +16,7 @@ mini Projects (task):
 - Quotes generator
 - Todo basic app
 - User data object practice
+- Love calculator
 
 This repo is focused on learning and practicing Js DOM concepts.
 
