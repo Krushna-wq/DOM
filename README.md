@@ -10,6 +10,13 @@ Topics:
 - Logic building exercises
 - JavaScript concept amd fundamentals implementations
 
+mini Projects (task):
+- Background color changer
+- Hide/show toggle
+- Quotes generator
+- Todo basic app
+- User data object practice
+
 This repo is focused on learning and practicing Js DOM concepts.
 
 it is not about UI design, responsiveness or advanced HTML and CSS Styling.
