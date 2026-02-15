@@ -2,7 +2,7 @@ const ipt = document.getElementById("name");
 const age = document.getElementById("age");
 const btn = document.querySelector("button");
 const container = document.querySelector("div");
-const input = document.querySelectorAll("input");
+
 
 btn.addEventListener("click", function () {
   
