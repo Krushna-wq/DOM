@@ -22,6 +22,9 @@ Structure:
 - dom → DOM manipulation & event practice
 - upcoming → scope, async, hof, react prep
 
+- Improving repository structure and documentation.
+
+
 Note:
 This is a learning and reinforcement repository, not a final UI/UX project repository.
 
