@@ -9,7 +9,7 @@ Focus Areas:
 - this Keyword
 - Higher Order Functions
 - map / filter / reduce
-- DOM Manipulation & Events
+- DOM Manipulation, Events and mini task
 - Async JavaScript (Promises, async/await, fetch)
 
 Purpose:
