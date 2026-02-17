@@ -1,6 +1,6 @@
 const user = {
     name: "benny",
-    Isloggedin: false,
+    isloggedin: false,
 }
 
 const loginBtn = document.getElementById("login");
