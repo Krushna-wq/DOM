@@ -16,5 +16,5 @@ btn.addEventListener("click", function () {
      para1.textContent =  `username: ${username}`;
      para2.textContent = `age: ${age}`;
      para3.textContent = `city: ${city}`;
- 
+   console.dir(para1)
 });
