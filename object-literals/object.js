@@ -71,6 +71,6 @@ const student = {
     username: "xyz2323",
     password: "XYZ@1234",
 }
-let {username, password, subject} = student
+let {name, age, subject} = student;
 
-console.log(username, password, subject);
+console.log(name, age, subject);
