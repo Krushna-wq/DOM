@@ -40,4 +40,19 @@ function returnSecondValue(getarray) {
     return getarray[1]
 }
 
-console.log(returnSecondValue(Array));    //pass array
+// console.log(returnSecondValue(Array));    //pass array
+
+
+console.log(addOne(4));
+
+function addOne (num) {
+    return num + 2;
+}
+
+
+addTwo(3);                                          
+
+const addTwo = function (num) {
+     return num + 3;
+}
+
