@@ -1,5 +1,5 @@
 let counter = 0;
-function increase(){
+function increase(){     //counter function
   counter++;
 }
 
@@ -13,6 +13,9 @@ btn.addEventListener("click", function(){
     body.appendChild(number);
 })
   
+
+
+
  
       
 
