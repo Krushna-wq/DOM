@@ -99,5 +99,11 @@ const mycoding = [
 ]
 
 mycoding.forEach ( (item) => {
-    console.log(item.name);
+    // console.log(item.name);
 })
+
+
+
+
+
+
